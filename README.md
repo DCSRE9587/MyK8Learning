@@ -76,6 +76,8 @@ docker logs containername
 or
 docker logs containerid
 ```
+To view the content of Docker container
+docker inspect
 
 
 
