@@ -22,7 +22,7 @@ cd getting-started-app/
 ```
 touch Dockerfile
 ```
-- Using the text editor of your choice, paste the below content ( Details about each of these have already shared in the video)
+- Using the text editor of your choice, paste the below content 
 ```
 FROM node:18-alpine
 WORKDIR /app
